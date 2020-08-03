@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "some commit message"
+git remote add origin LINK_TO_GITHUB_PAGE.git
+git push -u origin master
